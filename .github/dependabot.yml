@@ -8,3 +8,7 @@ updates:
     directory: /b
     schedule:
       interval: daily
+  - package-ecosystem: npm
+    directory: /c
+    schedule:
+      interval: daily
